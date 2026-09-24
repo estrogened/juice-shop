@@ -1,3 +1,7 @@
+server:
+  port: 3000
+  basePath: ''
+  baseUrl: https://girlcockjuice.com
 application:
   domain: juice-sh.op
   name: Girlcock Juice
@@ -41,6 +45,7 @@ application:
     linkUrl: https://www.youtube.com/watch?v=9PnbKL3wuH4
   securityTxt:
     contact: mailto:security@girlcockjuice.com
+    encryption: null
     acknowledgements: /#/score-board
     hiring: /#/jobs
     csaf: /.well-known/csaf/provider-metadata.json
